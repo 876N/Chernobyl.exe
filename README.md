@@ -1,0 +1,2 @@
+# Chernobyl.exe
+MERCILESS MASS DESTRUCTION
