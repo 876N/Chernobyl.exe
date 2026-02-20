@@ -109,19 +109,19 @@ dw 0xAA55
 
 # GDI
 
-**GDI Effect 1 - Ring Effect**   
+**Effect 1 - Ring Effect**   
 
 ![GDI1](https://i.ibb.co/5WLXDpBB/image.png)
 
-**GDI Effect 2 - Shard Effect**  
+**Effect 2 - Shard Effect**  
 
 ![GDI2](https://i.ibb.co/MDSWfh3v/image.png)
 
-**GDI Effect 3 - Mirror Effect**    
+**Effect 3 - Mirror Effect**    
 
 ![GDI3](https://i.ibb.co/4ZZQDqZB/image.png)
 
-**GDI Effect 4 - Pulse Effect**   
+**Effect 4 - Pulse Effect**   
 
 ![GDI4](https://i.ibb.co/QFY1qF1B/image.png)
 
